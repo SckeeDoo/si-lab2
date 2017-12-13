@@ -2,10 +2,6 @@ What is a Slowloris DDoS attack?
 -
 Slowloris is a denial-of-service attack program which allows an attacker to overwhelm a targeted server by opening and maintaining many simultaneous HTTP connections between the attacker and the target.
 
-<div align="center">
-<img src="https://www.cloudflare.com/img/learning/ddos/ddos-slowloris-attack/slowloris-attack-diagram.png" width="500"/>
-</div>
-
 
 How does a Slowloris attack work?
 --
